@@ -1,9 +1,9 @@
 # mm - move mouse
-This OSX software moves mouse cursor by 1 pixel up every ~50-60 seconds
+A simple utility that moves your mouse cursor up by 1 pixel every minute to prevent screen timeout
 
 ## Installation setup
 
-> Make sure python3 and pip are installed. It is recommended to use hombrew to install python.
+> Make sure python3 and pip are installed. You can install them using: `brew install python`
 
 1. Create a virtual environment 
 ```bash
